@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/testapp/static/css/main.ff1e0c4c.chunk.css",
-    "main.js": "/testapp/static/js/main.c34a5fab.chunk.js",
-    "main.js.map": "/testapp/static/js/main.c34a5fab.chunk.js.map",
+    "main.css": "/testapp/static/css/main.7ed93d91.chunk.css",
+    "main.js": "/testapp/static/js/main.954c9b2d.chunk.js",
+    "main.js.map": "/testapp/static/js/main.954c9b2d.chunk.js.map",
     "runtime-main.js": "/testapp/static/js/runtime-main.0d752250.js",
     "runtime-main.js.map": "/testapp/static/js/runtime-main.0d752250.js.map",
-    "static/js/2.f1af2d81.chunk.js": "/testapp/static/js/2.f1af2d81.chunk.js",
-    "static/js/2.f1af2d81.chunk.js.map": "/testapp/static/js/2.f1af2d81.chunk.js.map",
+    "static/js/2.7025f1f1.chunk.js": "/testapp/static/js/2.7025f1f1.chunk.js",
+    "static/js/2.7025f1f1.chunk.js.map": "/testapp/static/js/2.7025f1f1.chunk.js.map",
     "index.html": "/testapp/index.html",
-    "static/css/main.ff1e0c4c.chunk.css.map": "/testapp/static/css/main.ff1e0c4c.chunk.css.map",
-    "static/js/2.f1af2d81.chunk.js.LICENSE.txt": "/testapp/static/js/2.f1af2d81.chunk.js.LICENSE.txt",
+    "static/css/main.7ed93d91.chunk.css.map": "/testapp/static/css/main.7ed93d91.chunk.css.map",
+    "static/js/2.7025f1f1.chunk.js.LICENSE.txt": "/testapp/static/js/2.7025f1f1.chunk.js.LICENSE.txt",
     "static/media/Atalanta.png": "/testapp/static/media/Atalanta.d63dcb18.png",
     "static/media/Benevento.png": "/testapp/static/media/Benevento.edff052d.png",
     "static/media/Bologna.png": "/testapp/static/media/Bologna.351e1fc0.png",
@@ -34,6 +34,7 @@
     "static/media/Verona.png": "/testapp/static/media/Verona.dbff1178.png",
     "static/media/acquisto.png": "/testapp/static/media/acquisto.0cb622ea.png",
     "static/media/adjapong.jpg": "/testapp/static/media/adjapong.058eeac2.jpg",
+    "static/media/admin.3ecedce7.svg": "/testapp/static/media/admin.3ecedce7.svg",
     "static/media/alberto.jpg": "/testapp/static/media/alberto.1b24d103.jpg",
     "static/media/babacar.jpg": "/testapp/static/media/babacar.01a6c05a.jpg",
     "static/media/barella.jpg": "/testapp/static/media/barella.fe1839ec.jpg",
@@ -69,6 +70,7 @@
     "static/media/ronaldo.jpg": "/testapp/static/media/ronaldo.5ef230c5.jpg",
     "static/media/santon.jpg": "/testapp/static/media/santon.a574a6ee.jpg",
     "static/media/shit.jpg": "/testapp/static/media/shit.65f6ca30.jpg",
+    "static/media/user.1bf30ca5.svg": "/testapp/static/media/user.1bf30ca5.svg",
     "static/media/veramente.png": "/testapp/static/media/veramente.09ec8511.png",
     "static/media/veretout.jpg": "/testapp/static/media/veretout.53aa7b48.jpg",
     "static/media/vidal.jpg": "/testapp/static/media/vidal.aa9419ae.jpg",
@@ -77,8 +79,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0d752250.js",
-    "static/js/2.f1af2d81.chunk.js",
-    "static/css/main.ff1e0c4c.chunk.css",
-    "static/js/main.c34a5fab.chunk.js"
+    "static/js/2.7025f1f1.chunk.js",
+    "static/css/main.7ed93d91.chunk.css",
+    "static/js/main.954c9b2d.chunk.js"
   ]
 }
