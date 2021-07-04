@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/testapp/static/css/main.6273857e.chunk.css",
-    "main.js": "/testapp/static/js/main.550fb33b.chunk.js",
-    "main.js.map": "/testapp/static/js/main.550fb33b.chunk.js.map",
+    "main.css": "/testapp/static/css/main.185838d4.chunk.css",
+    "main.js": "/testapp/static/js/main.ea1a1aac.chunk.js",
+    "main.js.map": "/testapp/static/js/main.ea1a1aac.chunk.js.map",
     "runtime-main.js": "/testapp/static/js/runtime-main.0d752250.js",
     "runtime-main.js.map": "/testapp/static/js/runtime-main.0d752250.js.map",
-    "static/js/2.7025f1f1.chunk.js": "/testapp/static/js/2.7025f1f1.chunk.js",
-    "static/js/2.7025f1f1.chunk.js.map": "/testapp/static/js/2.7025f1f1.chunk.js.map",
+    "static/js/2.204752ef.chunk.js": "/testapp/static/js/2.204752ef.chunk.js",
+    "static/js/2.204752ef.chunk.js.map": "/testapp/static/js/2.204752ef.chunk.js.map",
     "index.html": "/testapp/index.html",
-    "static/css/main.6273857e.chunk.css.map": "/testapp/static/css/main.6273857e.chunk.css.map",
-    "static/js/2.7025f1f1.chunk.js.LICENSE.txt": "/testapp/static/js/2.7025f1f1.chunk.js.LICENSE.txt",
+    "static/css/main.185838d4.chunk.css.map": "/testapp/static/css/main.185838d4.chunk.css.map",
+    "static/js/2.204752ef.chunk.js.LICENSE.txt": "/testapp/static/js/2.204752ef.chunk.js.LICENSE.txt",
     "static/media/Atalanta.png": "/testapp/static/media/Atalanta.d63dcb18.png",
     "static/media/Benevento.png": "/testapp/static/media/Benevento.edff052d.png",
     "static/media/Bologna.png": "/testapp/static/media/Bologna.351e1fc0.png",
@@ -72,6 +72,7 @@
     "static/media/petagna.png": "/testapp/static/media/petagna.1fe436bb.png",
     "static/media/pig.png": "/testapp/static/media/pig.240fdea7.png",
     "static/media/porca.png": "/testapp/static/media/porca.341f36f9.png",
+    "static/media/reload.324339c0.svg": "/testapp/static/media/reload.324339c0.svg",
     "static/media/ronaldo.jpg": "/testapp/static/media/ronaldo.5ef230c5.jpg",
     "static/media/santon.jpg": "/testapp/static/media/santon.a574a6ee.jpg",
     "static/media/shit.jpg": "/testapp/static/media/shit.65f6ca30.jpg",
@@ -84,8 +85,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0d752250.js",
-    "static/js/2.7025f1f1.chunk.js",
-    "static/css/main.6273857e.chunk.css",
-    "static/js/main.550fb33b.chunk.js"
+    "static/js/2.204752ef.chunk.js",
+    "static/css/main.185838d4.chunk.css",
+    "static/js/main.ea1a1aac.chunk.js"
   ]
 }
