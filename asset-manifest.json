@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/testapp/static/css/main.6211c9c8.chunk.css",
-    "main.js": "/testapp/static/js/main.36c3f0e9.chunk.js",
-    "main.js.map": "/testapp/static/js/main.36c3f0e9.chunk.js.map",
+    "main.css": "/testapp/static/css/main.f13da292.chunk.css",
+    "main.js": "/testapp/static/js/main.ec5b50a1.chunk.js",
+    "main.js.map": "/testapp/static/js/main.ec5b50a1.chunk.js.map",
     "runtime-main.js": "/testapp/static/js/runtime-main.0d752250.js",
     "runtime-main.js.map": "/testapp/static/js/runtime-main.0d752250.js.map",
-    "static/js/2.af6f2cbd.chunk.js": "/testapp/static/js/2.af6f2cbd.chunk.js",
-    "static/js/2.af6f2cbd.chunk.js.map": "/testapp/static/js/2.af6f2cbd.chunk.js.map",
+    "static/js/2.46d004dc.chunk.js": "/testapp/static/js/2.46d004dc.chunk.js",
+    "static/js/2.46d004dc.chunk.js.map": "/testapp/static/js/2.46d004dc.chunk.js.map",
     "index.html": "/testapp/index.html",
-    "static/css/main.6211c9c8.chunk.css.map": "/testapp/static/css/main.6211c9c8.chunk.css.map",
-    "static/js/2.af6f2cbd.chunk.js.LICENSE.txt": "/testapp/static/js/2.af6f2cbd.chunk.js.LICENSE.txt",
+    "static/css/main.f13da292.chunk.css.map": "/testapp/static/css/main.f13da292.chunk.css.map",
+    "static/js/2.46d004dc.chunk.js.LICENSE.txt": "/testapp/static/js/2.46d004dc.chunk.js.LICENSE.txt",
     "static/media/Atalanta.png": "/testapp/static/media/Atalanta.d63dcb18.png",
     "static/media/Benevento.png": "/testapp/static/media/Benevento.edff052d.png",
     "static/media/Bologna.png": "/testapp/static/media/Bologna.351e1fc0.png",
@@ -85,8 +85,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0d752250.js",
-    "static/js/2.af6f2cbd.chunk.js",
-    "static/css/main.6211c9c8.chunk.css",
-    "static/js/main.36c3f0e9.chunk.js"
+    "static/js/2.46d004dc.chunk.js",
+    "static/css/main.f13da292.chunk.css",
+    "static/js/main.ec5b50a1.chunk.js"
   ]
 }
